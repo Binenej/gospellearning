@@ -171,4 +171,51 @@ footer {
     margin: auto;
 }
 
+/*About me page*/
+#content {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.imagq{
+    width: 1300px;
+    /*opacity: 0.7;*/
+    box-shadow: 5px 5px 10px #6f7364;
+    border-radius: 10px ;
+    height: 100opx;
 
+}
+.box{
+    box-shadow: 5px 5px 10px #6f7364;
+    border: 1px solid #191642;
+    padding: 20px;
+    padding-top: 20px;
+    width: 100%;
+    margin: 0 auto;
+    box-sizing: 5px 5px 10px;
+    color: white;
+    height: auto;
+    border-radius: 10px;
+    padding-bottom: 20px;
+
+}
+h2{
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    box-shadow: 5px 5px 10px #6f7364;
+    border-radius: 10px;
+    border-left: 10px;
+    
+}
+.elders{
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    box-shadow: 5px 5px 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px #6f7364;
+    padding-top: 20px;
+
+
+}
