@@ -257,3 +257,17 @@ h2{
 .scripture-msg h2, .scripture-msg p{
     color: white;
 }
+.bible{
+    display: block;
+    margin: 0 auto;
+    width: 1200px;
+    /*box-shadow: 5px 5px;*/
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #6f7364;
+    padding-top: 80px;
+    grid-column: 6/10;
+    grid-row: 6/7;
+    border-image: repeat(5,1fr);
+
+
+}
