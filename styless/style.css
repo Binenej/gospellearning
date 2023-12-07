@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Bentham&family=Libre+Baskerville:ital@1&family=Love+Ya+Like+A+Sister&family=Young+Serif&display=swap");
 body{
-    font-family: 'Bentham' 'Libre+Baskerville';
+    font-family: 'Bentham' 'Libre+Baskerville', sans-serif;
 }
 
 h1, h2, h3, h4, .home-title, .msg h2{
@@ -185,7 +185,7 @@ footer {
     /*opacity: 0.7;*/
     box-shadow: 5px 5px 10px #6f7364;
     border-radius: 10px ;
-    height: 100opx;
+    /*height: 100px;*/
 
 }
 .box{
@@ -195,7 +195,7 @@ footer {
     padding-top: 20px;
     width: 80%;
     margin: 0 auto;
-    box-sizing: 5px 5px 10px;
+    /*box-sizing: 5px 5px 10px;*/
     color: white;
     height: auto;
     border-radius: 10px;
@@ -266,5 +266,5 @@ h2{
     padding-top: 80px;
     grid-column: 6/10;
     grid-row: 6/7;
-    border-image: repeat(5,1fr);
+    /*border-image: repeat(5,1fr);*/
 }
