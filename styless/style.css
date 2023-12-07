@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Bentham&family=Libre+Baskerville:ital@1&family=Love+Ya+Like+A+Sister&family=Young+Serif&display=swap");
 body{
-    font-family: 'Bentham' 'Libre Baskerville', sans-serif;
+    font-family: 'Bentham', 'Libre Baskerville', sans-serif;
 }
 
 h1, h2, h3, h4, .home-title, .msg h2{
